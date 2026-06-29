@@ -1,17 +1,41 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Eduardo Reichel Vieira
 
+## 💻 Sobre mim
 
+Sou estudante de Desenvolvimento de Software, apaixonado por tecnologia e sempre em busca de aprimorar minhas habilidades através de projetos práticos e novos desafios.
 
-**eduardoRvieira/eduardoRvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Atualmente estudando **Java**  
+🚀 Participante do programa **+Devs2Blu**  
+📍 Brasil, SC
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠️ Tecnologias e Conhecimentos
 
+### 📚 Atualmente estudando
+- ☕ Java
+
+### 💡 Conhecimentos
+- 🐍 Python
+- 🗄️ SQL
+- 🌐 HTML, CSS e JavaScript
+- 🔧 Git e GitHub
+
+---
+
+## 📌 Projeto em Destaque
+
+### App Rotina Status Diário
+
+Projeto no qual estou trabalhando atualmente.
+
+🔗 https://github.com/JimmyRobertSilva/AppRotinaStatusDiario
+
+---
+
+## 📫 Contato
+
+📧 **E-mail:** eduardoreichel05@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/eduardo-reichel-vieira-1a95b92b6/
+```
