@@ -1,10 +1,21 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif" width="70" align="center">
+<table align="center">
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif" width="70">
+</td>
 
-  <b style="font-size:35px;">Olá! 👋 Eu sou Eduardo Reichel Vieira</b>
+<td>
 
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif" width="70" align="center">
-</p>
+# Olá! 👋 Eu sou Eduardo Reichel Vieira
+
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif" width="70">
+</td>
+
+</tr>
+</table>
 
 ---
 
