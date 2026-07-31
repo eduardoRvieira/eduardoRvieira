@@ -1,19 +1,10 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif" width="90">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif" width="90">
-</p>
-
 <h1 align="center">
-Olá! 👋 Eu sou Eduardo Reichel Vieira
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif" width="60">
+
+  Olá! 👋 Eu sou Eduardo Reichel Vieira
+
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif" width="60">
 </h1>
-
-<h3 align="center">
-Estudante de Engenharia de Software • Desenvolvedor Java Back-end em formação
-</h3>
-
-<p align="center">
-☕ Java • 🌱 Spring Boot • 🗄️ SQL • 🔧 Git & GitHub
-</p>
 
 ---
 
