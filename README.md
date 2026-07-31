@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif" width="65" alt="Krookodile">
 
-  <strong style="font-size: 34px;">
+  <strong style="font-size: 50px;">
     Olá! 👋 Eu sou Eduardo Reichel Vieira
   </strong>
 
