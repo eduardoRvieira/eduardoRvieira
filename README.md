@@ -1,4 +1,18 @@
-<h1 align="center">Olá! 👋 Eu sou Eduardo Reichel Vieira</h1>
+<h1 align="center">
+  <img
+    src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif"
+    width="80"
+    alt="Krookodile"
+  />
+
+  Olá! 👋 Eu sou Eduardo Reichel Vieira
+
+  <img
+    src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif"
+    width="80"
+    alt="Krookodile"
+  />
+</h1>
 
 <h3 align="center">
 Estudante de Engenharia de Software • Desenvolvedor Java Back-end em formação
