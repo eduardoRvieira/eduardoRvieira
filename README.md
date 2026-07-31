@@ -1,8 +1,12 @@
-<h1 align="center">Olá! 👋 Eu sou Eduardo Reichel Vieira</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif" width="90">
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif" width="90">
+</p>
 
-<h3 align="center">
-Estudante de Engenharia de Software • Desenvolvedor Java Back-end em formação
-</h3>
+<h1 align="center">
+Olá! 👋 Eu sou Eduardo Reichel Vieira
+</h1>
 
 <p align="center">
 ☕ Java • 🌱 Spring Boot • 🗄️ SQL • 🔧 Git & GitHub
