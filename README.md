@@ -8,6 +8,10 @@
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif" width="65" alt="Krookodile">
 </p>
 
+<p align="center">
+☕ Java • 🌱 Spring Boot • 🗄️ SQL • 🔧 Git & GitHub
+</p> 
+
 ---
 
 ## 🚀 Sobre mim
