@@ -1,12 +1,18 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif" width="65" alt="Krookodile">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td border="0">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif" width="65">
+    </td>
 
-  <strong style="font-size: 50px;">
-    Olá! 👋 Eu sou Eduardo Reichel Vieira
-  </strong>
+    <td align="center" border="0">
+      <h1>Olá! 👋 Eu sou Eduardo Reichel Vieira</h1>
+    </td>
 
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif" width="65" alt="Krookodile">
-</p>
+    <td border="0">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif" width="65">
+    </td>
+  </tr>
+</table>
 
 ---
 
