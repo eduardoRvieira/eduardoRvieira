@@ -1,18 +1,20 @@
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td border="0">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif" width="65">
-    </td>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif" width="70">
+</p>
 
-    <td align="center" border="0">
-      <h1>Olá! 👋 Eu sou Eduardo Reichel Vieira</h1>
-    </td>
+<h1 align="center">
+Olá! 👋 Eu sou Eduardo Reichel Vieira
+</h1>
 
-    <td border="0">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif" width="65">
-    </td>
-  </tr>
-</table>
+<p align="center">
+☕ Java • 🌱 Spring Boot • 🗄️ SQL • 🔧 Git & GitHub
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif" width="55">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="55">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif" width="55">
+</p>
 
 ---
 
