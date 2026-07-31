@@ -69,17 +69,6 @@ Sistema para gerenciamento de atividades e acompanhamento da rotina diária.
 
 🔗 https://github.com/JimmyRobertSilva/AppRotinaStatusDiario
 
----
-
-## 📈 Estatísticas
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=eduardoRvieira&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoRvieira&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
 
 ---
 
